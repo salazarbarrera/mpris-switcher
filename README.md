@@ -10,7 +10,7 @@ The script to switch players is:
 
 $sh mpris_switch.sh
 
-which will prompt a Zenity form listing all the available players.
+which will prompt a [Zenity](https://gitlab.gnome.org/GNOME/zenity) form listing all the available players ([documentation](https://help.gnome.org/users/zenity/stable/)).
 
 The commands to control the selected player are:
 
